@@ -1,5 +1,5 @@
 # Hopfield_Network_BIO210
-
+This public version does not provide the code as it is a reccurent course project given at EPFL.
 Hopfield's Network.
 
 <img src="datas/RM_INTRO.gif" width="500"/>
