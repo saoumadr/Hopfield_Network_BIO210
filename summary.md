@@ -160,3 +160,6 @@ In these animations, one can see the steps of the images' reconstructions done b
 <br />
 
 - [Pikachu](https://github.com/EPFL-BIO-210/BIO-210-24-team-38/blob/main/datas/animations/anim_pikachu.mp4)
+
+### Conclusion
+The experiments show that Hopfield networks can retrieve perturbed patterns, but only within clear limits. The Storkey rule stores more patterns than the Hebbian rule, while robustness to noise is similar for both when few patterns are stored and drops beyond ~50% perturbation.
