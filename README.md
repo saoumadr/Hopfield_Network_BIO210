@@ -10,7 +10,7 @@ In this project you will implement the iterative process which allows to retriev
 ## Results of the Experiments
 
 You can access the detailed results of the experiments [here](./datas).
-A summary resuming all the experiments done is available [here](https://github.com/EPFL-BIO-210/BIO-210-24-team-38/blob/main/summary.md).
+A summary of all the experiments is available [here](https://github.com/saoumadr/Hopfield_Network_BIO210/blob/main/summary.md).
 
 ## Credits
 
