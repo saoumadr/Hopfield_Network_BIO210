@@ -160,10 +160,3 @@ In these animations, one can see the steps of the images' reconstructions done b
 <br />
 
 - [Pikachu](https://github.com/EPFL-BIO-210/BIO-210-24-team-38/blob/main/datas/animations/anim_pikachu.mp4)
-
-
-> These plots can be reproduced by running the script: `retrieve_img.py`.
-
-## Conclusion
-
-
